@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "price": 999,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "description": "Latest iPhone with advanced features"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24",
+      "price": 899,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "description": "Premium Android smartphone"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro M3",
+      "price": 1999,
+      "category": "Computers",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "description": "Powerful laptop for professionals"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "price": 399,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "description": "Premium noise-cancelling headphones"
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Max 270",
+      "price": 150,
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "description": "Comfortable running shoes"
+    },
+    {
+      "id": 6,
+      "name": "Canon EOS R5",
+      "price": 3899,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400",
+      "description": "Professional mirrorless camera"
+    },
+    {
+      "id": 7,
+      "name": "iPad Pro 12.9",
+      "price": 1099,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "description": "Powerful tablet for creativity"
+    },
+    {
+      "id": 8,
+      "name": "Dell XPS 15",
+      "price": 1799,
+      "category": "Computers",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "description": "High-performance laptop"
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "description": "Advanced smartwatch"
+    },
+    {
+      "id": 10,
+      "name": "AirPods Pro 2",
+      "price": 249,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400",
+      "description": "Premium wireless earbuds"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "icon": "📱",
+      "count": 5,
+      "description": "Latest electronic devices"
+    },
+    {
+      "id": 2,
+      "name": "Computers",
+      "icon": "💻",
+      "count": 2,
+      "description": "Laptops and desktops"
+    },
+    {
+      "id": 3,
+      "name": "Audio",
+      "icon": "🎧",
+      "count": 2,
+      "description": "Headphones and speakers"
+    },
+    {
+      "id": 4,
+      "name": "Fashion",
+      "icon": "👟",
+      "count": 1,
+      "description": "Clothing and accessories"
+    }
+  ]
+}
