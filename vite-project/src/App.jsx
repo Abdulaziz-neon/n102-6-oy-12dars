@@ -7,6 +7,7 @@ import Categories from './pages/Categories'
 
 const App = () => {
   return (
+    
     <Router>
       <div className='flex min-h-screen bg-white'>
         <Navbar />
@@ -19,6 +20,7 @@ const App = () => {
         </main>
       </div>
     </Router>
+    
   )
 }
 
